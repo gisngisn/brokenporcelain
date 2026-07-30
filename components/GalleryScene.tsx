@@ -1,7 +1,8 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Link from "next/link";
+import { useParams } from "next/navigation";
 
 import ArtworkViewer from "./ArtworkViewer";
 import ArtworkInfo from "./ArtworkInfo";
@@ -151,7 +152,7 @@ const artworks: Artwork[] = [
   },
   {
     id: "027",
-    image: "/gallery/027AshesofMemory.webp",
+    image: "/gallery/027AshesOfMemory.webp",
     title: "Ashes of Memory",
   },
   {
@@ -207,7 +208,18 @@ const artworks: Artwork[] = [
 ];
 
 export default function GalleryScene() {
+  const params = useParams();
   const [current, setCurrent] = useState(0);
+
+  // 根据路由id切换当前作品
+  useEffect(() => {
+    if (!params.id) return;
+    const targetId = params.id;
+    const targetIndex = artworks.findIndex(item => String(item.id) === String(targetId));
+    if (targetIndex >= 0) {
+      setCurrent(targetIndex);
+    }
+  }, [params.id]);
 
   const artwork = artworks[current];
 
