@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { useParams } from "next/navigation";
+import { useSearchParams } from "next/navigation"; // 修改导入
 
 import ArtworkViewer from "./ArtworkViewer";
 import ArtworkInfo from "./ArtworkInfo";
@@ -208,18 +208,22 @@ const artworks: Artwork[] = [
 ];
 
 export default function GalleryScene() {
-  const params = useParams();
+  const searchParams = useSearchParams();
   const [current, setCurrent] = useState(0);
 
-  // 根据路由id切换当前作品
   useEffect(() => {
-    if (!params.id) return;
-    const targetId = params.id;
+    const targetId = searchParams.get("id");
+    if (!targetId) {
+      setCurrent(0);
+      return;
+    }
     const targetIndex = artworks.findIndex(item => String(item.id) === String(targetId));
     if (targetIndex >= 0) {
       setCurrent(targetIndex);
+    } else {
+      setCurrent(0);
     }
-  }, [params.id]);
+  }, [searchParams]);
 
   const artwork = artworks[current];
 
