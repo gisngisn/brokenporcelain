@@ -11,10 +11,10 @@ import GalleryControls from "./GalleryControls";
 import KeyboardGallery from "./KeyboardGallery";
 
 type Artwork = {
-  id: number;
+  id: string | number;
   image: string;
   title: string;
-  description: string;
+  description?: string;
 };
 
 const artworks: Artwork[] = [
@@ -288,9 +288,9 @@ export default function GalleryScene() {
         />
 
         <ArtworkInfo
-          title={artwork.title}
-          description={artwork.description}
-        />
+  title={artwork.title}
+  description={artwork.description ?? ""}
+/>
       </div>
 
       <GalleryControls
