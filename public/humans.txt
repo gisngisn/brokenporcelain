@@ -1,0 +1,25 @@
+/* TEAM */
+
+Project Name: Broken Porcelain
+Type: Digital Museum
+Designer: Broken Porcelain Studio
+Developer: Next.js + TypeScript
+Framework: Next.js 15
+UI: Tailwind CSS v4
+Animation: Framer Motion
+Future: GSAP + Lenis
+
+/* SITE */
+
+Title: Broken Porcelain
+Description: A Digital Museum of Fragile Memories
+Language: en
+Charset: UTF-8
+Standards: HTML5, CSS3, ECMAScript
+Components: React 19
+Hosting: Vercel
+
+/* COPYRIGHT */
+
+© 2026 Broken Porcelain.
+All Rights Reserved.

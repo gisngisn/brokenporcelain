@@ -1,0 +1,335 @@
+[
+  {
+    "id": 1,
+    "image": "/gallery/001qinghuan.webp",
+    "title": "001qinghuan",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 2,
+    "image": "/gallery/002memory.webp",
+    "title": "002memory",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 3,
+    "image": "/gallery/003silence.webp",
+    "title": "003silence",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 4,
+    "image": "/gallery/004FallenDream.webp",
+    "title": "004FallenDream",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 5,
+    "image": "/gallery/005Forgotten.webp",
+    "title": "005Forgotten",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 6,
+    "image": "/gallery/006Last Whisper.webp",
+    "title": "006Last Whisper",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 7,
+    "image": "/gallery/007Lost Time.webp",
+    "title": "007Lost Time",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 8,
+    "image": "/gallery/008Eternal Sleep.webp",
+    "title": "008Eternal Sleep",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 9,
+    "image": "/gallery/009BrokenPromise.webp",
+    "title": "009BrokenPromise",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 10,
+    "image": "/gallery/010Afterglow.webp",
+    "title": "010Afterglow",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 11,
+    "image": "/gallery/011EmptyHeart.webp",
+    "title": "011EmptyHeart",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 12,
+    "image": "/gallery/012SilentTear.webp",
+    "title": "012SilentTear",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 13,
+    "image": "/gallery/013DreamFragment.webp",
+    "title": "013DreamFragment",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 14,
+    "image": "/gallery/014FadingMemory.webp",
+    "title": "014FadingMemory",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 15,
+    "image": "/gallery/015LunarRemains.webp",
+    "title": "015LunarRemains",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 16,
+    "image": "/gallery/016HiddenSoul.webp",
+    "title": "016HiddenSoul",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 17,
+    "image": "/gallery/017ColdGarde.webp",
+    "title": "017ColdGarde",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 18,
+    "image": "/gallery/018LostChild.webp",
+    "title": "018LostChild",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 19,
+    "image": "/gallery/019DollWithoutaNam.webp",
+    "title": "019DollWithoutaNam",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 20,
+    "image": "/gallery/020PorcelainHeart.webp",
+    "title": "020PorcelainHeart",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 21,
+    "image": "/gallery/021VelvetNight.webp",
+    "title": "021VelvetNight",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 22,
+    "image": "/gallery/022Dreamless.webp",
+    "title": "022Dreamless",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 23,
+    "image": "/gallery/023FrostMemory.webp",
+    "title": "023FrostMemory",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 24,
+    "image": "/gallery/024Echo.webp",
+    "title": "024Echo",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 25,
+    "image": "/gallery/025Vanishing.webp",
+    "title": "025Vanishing",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 26,
+    "image": "/gallery/026NeverAwake.webp",
+    "title": "026NeverAwake",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 27,
+    "image": "/gallery/027AshesofMemory.webp",
+    "title": "027AshesofMemory",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 28,
+    "image": "/gallery/028SilentKingdom.webp",
+    "title": "028SilentKingdom",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 29,
+    "image": "/gallery/029BeforeDawn.webp",
+    "title": "029BeforeDawn",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 30,
+    "image": "/gallery/030BlackRoseMemory.webp",
+    "title": "030BlackRoseMemory",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 31,
+    "image": "/gallery/031FaintExistence.webp",
+    "title": "031FaintExistence",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 32,
+    "image": "/gallery/032BeyondSilence.webp",
+    "title": "032BeyondSilence",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 33,
+    "image": "/gallery/033EndlessWinter.webp",
+    "title": "033EndlessWinter",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 34,
+    "image": "/gallery/034GlassTears.webp",
+    "title": "034GlassTears",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 35,
+    "image": "/gallery/035ForgottenMelody.webp",
+    "title": "035ForgottenMelody",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 36,
+    "image": "/gallery/036TheHollowDream.webp",
+    "title": "036TheHollowDream",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 37,
+    "image": "/gallery/037ForgottenLullaby.webp",
+    "title": "037ForgottenLullaby",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  }
+]
