@@ -151,7 +151,7 @@ const artworks: Artwork[] = [
   },
   {
     id: "027",
-    image: "/gallery/027AshesofMemory.webp",
+    image: "/gallery/027AshesOfMemory.webp",
     title: "Ashes of Memory",
   },
   {
