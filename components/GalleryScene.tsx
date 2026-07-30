@@ -36,172 +36,172 @@ const artworks: Artwork[] = [
   },
   {
     id: "004",
-    image: "/gallery/004fallendream.webp",
+    image: "/gallery/004FallenDream.webp",
     title: "Fallen Dream",
   },
   {
     id: "005",
-    image: "/gallery/005forgotten.webp",
+    image: "/gallery/005Forgotten.webp",
     title: "Forgotten",
   },
   {
     id: "006",
-    image: "/gallery/006lastwhisper.webp",
+    image: "/gallery/006LastWhisper.webp",
     title: "Last Whisper",
   },
   {
     id: "007",
-    image: "/gallery/007losttime.webp",
+    image: "/gallery/007LostTime.webp",
     title: "Lost Time",
   },
   {
     id: "008",
-    image: "/gallery/008eternalsleep.webp",
+    image: "/gallery/008EternalSleep.webp",
     title: "Eternal Sleep",
   },
   {
     id: "009",
-    image: "/gallery/009brokenpromise.webp",
+    image: "/gallery/009BrokenPromise.webp",
     title: "Broken Promise",
   },
   {
     id: "010",
-    image: "/gallery/010afterglow.webp",
+    image: "/gallery/010Afterglow.webp",
     title: "Afterglow",
   },
   {
     id: "011",
-    image: "/gallery/011emptyheart.webp",
+    image: "/gallery/011EmptyHeart.webp",
     title: "Empty Heart",
   },
   {
     id: "012",
-    image: "/gallery/012silenttear.webp",
+    image: "/gallery/012SilentTear.webp",
     title: "Silent Tear",
   },
   {
     id: "013",
-    image: "/gallery/013dreamfragment.webp",
+    image: "/gallery/013DreamFragment.webp",
     title: "Dream Fragment",
   },
   {
     id: "014",
-    image: "/gallery/014fadingmemory.webp",
+    image: "/gallery/014FadingMemory.webp",
     title: "Fading Memory",
   },
   {
     id: "015",
-    image: "/gallery/015lunarremains.webp",
+    image: "/gallery/015LunarRemains.webp",
     title: "Lunar Remains",
   },
   {
     id: "016",
-    image: "/gallery/016hiddensoul.webp",
+    image: "/gallery/016HiddenSoul.webp",
     title: "Hidden Soul",
   },
   {
     id: "017",
-    image: "/gallery/017coldgarde.webp",
+    image: "/gallery/017ColdGarde.webp",
     title: "Cold Garden",
   },
   {
     id: "018",
-    image: "/gallery/018lostchild.webp",
+    image: "/gallery/018LostChild.webp",
     title: "Lost Child",
   },
   {
     id: "019",
-    image: "/gallery/019dollwithoutanam.webp",
+    image: "/gallery/019DollWithoutaNam.webp",
     title: "Doll Without a Name",
   },
   {
     id: "020",
-    image: "/gallery/020porcelainheart.webp",
+    image: "/gallery/020PorcelainHeart.webp",
     title: "Porcelain Heart",
   },
   {
     id: "021",
-    image: "/gallery/021velvetnight.webp",
+    image: "/gallery/021VelvetNight.webp",
     title: "Velvet Night",
   },
   {
     id: "022",
-    image: "/gallery/022dreamless.webp",
+    image: "/gallery/022Dreamless.webp",
     title: "Dreamless",
   },
   {
     id: "023",
-    image: "/gallery/023frostmemory.webp",
+    image: "/gallery/023FrostMemory.webp",
     title: "Frost Memory",
   },
   {
     id: "024",
-    image: "/gallery/024echo.webp",
+    image: "/gallery/024Echo.webp",
     title: "Echo",
   },
   {
     id: "025",
-    image: "/gallery/025vanishing.webp",
+    image: "/gallery/025Vanishing.webp",
     title: "Vanishing",
   },
   {
     id: "026",
-    image: "/gallery/026neverawake.webp",
+    image: "/gallery/026NeverAwake.webp",
     title: "Never Awake",
   },
   {
     id: "027",
-    image: "/gallery/027ashesofmemory.webp",
+    image: "/gallery/027AshesOfMemory.webp",
     title: "Ashes of Memory",
   },
   {
     id: "028",
-    image: "/gallery/028silentkingdom.webp",
+    image: "/gallery/028SilentKingdom.webp",
     title: "Silent Kingdom",
   },
   {
     id: "029",
-    image: "/gallery/029beforedawn.webp",
+    image: "/gallery/029BeforeDawn.webp",
     title: "Before Dawn",
   },
   {
     id: "030",
-    image: "/gallery/030blackrosememory.webp",
+    image: "/gallery/030BlackRoseMemory.webp",
     title: "Black Rose Memory",
   },
   {
     id: "031",
-    image: "/gallery/031faintexistence.webp",
+    image: "/gallery/031FaintExistence.webp",
     title: "Faint Existence",
   },
   {
     id: "032",
-    image: "/gallery/032beyondsilence.webp",
+    image: "/gallery/032BeyondSilence.webp",
     title: "Beyond Silence",
   },
   {
     id: "033",
-    image: "/gallery/033endlesswinter.webp",
+    image: "/gallery/033EndlessWinter.webp",
     title: "Endless Winter",
   },
   {
     id: "034",
-    image: "/gallery/034glasstears.webp",
+    image: "/gallery/034GlassTears.webp",
     title: "Glass Tears",
   },
   {
     id: "035",
-    image: "/gallery/035forgottenmelody.webp",
+    image: "/gallery/035ForgottenMelody.webp",
     title: "Forgotten Melody",
   },
   {
     id: "036",
-    image: "/gallery/036thehollowdream.webp",
+    image: "/gallery/036TheHollowDream.webp",
     title: "The Hollow Dream",
   },
   {
     id: "037",
-    image: "/gallery/037forgottenlullaby.webp",
+    image: "/gallery/037ForgottenLullaby.webp",
     title: "Forgotten Lullaby",
   },
 ];
@@ -256,7 +256,7 @@ export default function GalleryScene() {
           hover:text-white
         "
       >
-        ← Back Home
+        ← Back Museum
       </Link>
 
       <div
