@@ -2,12 +2,12 @@ import Image from "next/image";
 import Link from "next/link";
 
 const artworks = [
- {
+  {
     id: "001",
     image: "/gallery/001qinghuan.webp",
     title: "Qinghuan",
   },
-   {
+  {
     id: "002",
     image: "/gallery/002memory.webp",
     title: "Memory",
@@ -19,7 +19,7 @@ const artworks = [
   },
   {
     id: "004",
-    image: "/gallery/004FallenDream.webp",
+    image: "/gallery/004fallendream.webp",
     title: "Fallen Dream",
   },
   {
@@ -29,22 +29,22 @@ const artworks = [
   },
   {
     id: "006",
-    image: "/gallery/006LastWhisper.webp",
+    image: "/gallery/006lastwhisper.webp",
     title: "Last Whisper",
   },
   {
     id: "007",
-    image: "/gallery/007LostTime.webp",
+    image: "/gallery/007losttime.webp",
     title: "Lost Time",
   },
   {
     id: "008",
-    image: "/gallery/008EternalSleep.webp",
+    image: "/gallery/008eternalsleep.webp",
     title: "Eternal Sleep",
   },
   {
     id: "009",
-    image: "/gallery/009BrokenPromise.webp",
+    image: "/gallery/009brokenpromise.webp",
     title: "Broken Promise",
   },
   {
@@ -84,7 +84,7 @@ const artworks = [
   },
   {
     id: "017",
-    image: "/gallery/017ColdGarde.webp",
+    image: "/gallery/017coldgarde.webp",
     title: "Cold Garden",
   },
   {
@@ -94,7 +94,7 @@ const artworks = [
   },
   {
     id: "019",
-    image: "/gallery/019DollWithoutaNam.webp",
+    image: "/gallery/019dollwithoutanam.webp",
     title: "Doll Without a Name",
   },
   {
@@ -154,7 +154,7 @@ const artworks = [
   },
   {
     id: "031",
-    image: "/gallery/031FaintExistence.webp",
+    image: "/gallery/031faintexistence.webp",
     title: "Faint Existence",
   },
   {
@@ -240,7 +240,6 @@ export default function CollectionPage() {
         </p>
       </header>
 
-
       {/* 返回 */}
       <Link
         href="/gallery"
@@ -258,7 +257,6 @@ export default function CollectionPage() {
         ← Back Museum
       </Link>
 
-
       {/* 图片墙 */}
       <section
         className="
@@ -271,7 +269,6 @@ export default function CollectionPage() {
           lg:grid-cols-3
         "
       >
-
         {artworks.map((artwork) => (
           <Link
             key={artwork.id}
@@ -285,7 +282,6 @@ export default function CollectionPage() {
               bg-black
             "
           >
-
             <div
               className="
                 relative
@@ -318,12 +314,7 @@ export default function CollectionPage() {
               />
             </div>
 
-
-            <div
-              className="
-                p-6
-              "
-            >
+            <div className="p-6">
               <p
                 className="
                   text-[10px]
@@ -345,13 +336,9 @@ export default function CollectionPage() {
                 {artwork.title}
               </h2>
             </div>
-
-
           </Link>
         ))}
-
       </section>
-
     </main>
   );
 }
