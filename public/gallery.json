@@ -172,6 +172,15 @@
   },
   {
     "id": 20,
+    "image": "/gallery/020PorcelainHeart.webp",
+    "title": "020PorcelainHeart",
+    "description": "A fragile porcelain memory preserved in silence.",
+    "year": "2026",
+    "series": "Broken Porcelain Collection",
+    "medium": "Digital Porcelain Artwork"
+  },
+  {
+    "id": 21,
     "image": "/gallery/021VelvetNight.webp",
     "title": "021VelvetNight",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -180,7 +189,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 21,
+    "id": 22,
     "image": "/gallery/022Dreamless.webp",
     "title": "022Dreamless",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -189,7 +198,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 22,
+    "id": 23,
     "image": "/gallery/023FrostMemory.webp",
     "title": "023FrostMemory",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -198,7 +207,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 23,
+    "id": 24,
     "image": "/gallery/024Echo.webp",
     "title": "024Echo",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -207,7 +216,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 24,
+    "id": 25,
     "image": "/gallery/025Vanishing.webp",
     "title": "025Vanishing",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -216,7 +225,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 25,
+    "id": 26,
     "image": "/gallery/026NeverAwake.webp",
     "title": "026NeverAwake",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -225,7 +234,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 26,
+    "id": 27,
     "image": "/gallery/027AshesofMemory.webp",
     "title": "027AshesofMemory",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -234,7 +243,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 27,
+    "id": 28,
     "image": "/gallery/028SilentKingdom.webp",
     "title": "028SilentKingdom",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -243,7 +252,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 28,
+    "id": 29,
     "image": "/gallery/029BeforeDawn.webp",
     "title": "029BeforeDawn",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -252,7 +261,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 29,
+    "id": 30,
     "image": "/gallery/030BlackRoseMemory.webp",
     "title": "030BlackRoseMemory",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -261,7 +270,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 30,
+    "id": 31,
     "image": "/gallery/031FaintExistence.webp",
     "title": "031FaintExistence",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -270,7 +279,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 31,
+    "id": 32,
     "image": "/gallery/032BeyondSilence.webp",
     "title": "032BeyondSilence",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -279,7 +288,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 32,
+    "id": 33,
     "image": "/gallery/033EndlessWinter.webp",
     "title": "033EndlessWinter",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -288,7 +297,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 33,
+    "id": 34,
     "image": "/gallery/034GlassTears.webp",
     "title": "034GlassTears",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -297,7 +306,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 34,
+    "id": 35,
     "image": "/gallery/035ForgottenMelody.webp",
     "title": "035ForgottenMelody",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -306,7 +315,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 35,
+    "id": 36,
     "image": "/gallery/036TheHollowDream.webp",
     "title": "036TheHollowDream",
     "description": "A fragile porcelain memory preserved in silence.",
@@ -315,7 +324,7 @@
     "medium": "Digital Porcelain Artwork"
   },
   {
-    "id": 36,
+    "id": 37,
     "image": "/gallery/037ForgottenLullaby.webp",
     "title": "037ForgottenLullaby",
     "description": "A fragile porcelain memory preserved in silence.",

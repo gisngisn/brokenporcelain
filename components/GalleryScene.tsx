@@ -116,6 +116,11 @@ const artworks: Artwork[] = [
     title: "Doll Without a Name",
   },
   {
+    id: "020",
+    image: "/gallery/020PorcelainHeart.webp",
+    title: "Porcelain Heart",
+  },
+  {
     id: "021",
     image: "/gallery/021VelvetNight.webp",
     title: "Velvet Night",
@@ -147,7 +152,7 @@ const artworks: Artwork[] = [
   },
   {
     id: "027",
-    image: "/gallery/027AshesofMemory.webp",
+    image: "/gallery/027AshesOfMemory.webp",
     title: "Ashes of Memory",
   },
   {
@@ -200,12 +205,7 @@ const artworks: Artwork[] = [
     image: "/gallery/037ForgottenLullaby.webp",
     title: "Forgotten Lullaby",
   },
-].map((artwork, index) => ({
-  ...artwork,
-  // The exhibition order is the public catalogue number. Removing No. 020
-  // therefore shifts every following work forward by one number.
-  id: String(index + 1).padStart(3, "0"),
-}));
+];
 
 export default function GalleryScene() {
   const searchParams = useSearchParams();
