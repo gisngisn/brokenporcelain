@@ -11,7 +11,7 @@ export default function Home(){
   const openWork=(index:number)=>{setSelected(index);document.querySelector("#focus")?.scrollIntoView({behavior:"smooth",block:"start"})};
   if(!entered)return <main className="opening"><div className="shardStage" aria-label="破碎娃娃拼合动画"><img className="wholeDoll" src="/doll.webp" alt="破碎娃娃"/>{["one","two","three","four","five","six","seven","eight"].map(name=><i className={`shard ${name}`} key={name}/>)}</div><div className="openingShade"/><div className={`openingCopy ${assembled?"revealed":""}`}><p>PRIVATE DIGITAL EXHIBITION · 2026</p><h1>BROKEN DOLL</h1><span>破 碎 娃 娃</span><button onClick={()=>setEntered(true)}>进入展览 <b>→</b></button></div></main>;
   const work=works[selected];
-  const imageUrl=(image:string)=>`/gallery/${image}`;
+  const imageUrl=(image:string)=>`/gallery/${image==="027AshesOfMemory.webp"?"027AshesofMemory.webp":image}`;
   return <main className="museum"><header className="museumNav"><a className="wordmark" href="#top">BROKEN DOLL</a><nav><a href="#letter">作者引言</a><a href="#focus">展馆</a><a href="#archive">作品档案</a><a href="#contact">联系我</a></nav><span>破碎娃娃 · 数字艺术展</span></header>
   <section id="top" className="museumHero"><div className="heroCrackLight" aria-hidden="true"/><p>01 / PRIVATE EXHIBITION</p><h1>每一道裂痕，<br/>都有<em>光</em>经过。</h1><span>SCROLL TO ENTER</span></section>
   <section id="letter" className="letter"><p>作者引言 / 02</p><div><h1>我不修复破碎。<br/>我让它们，<em>被看见。</em></h1><article>“破碎娃娃”不是关于失去的故事。它关乎那些被藏起来的敏感、未被命名的脆弱，以及一颗心如何在裂缝中继续感受。每一幅画，都是一次安静的凝视。<blockquote>不完美又何妨，万物皆有裂隙，那是光进来的地方！</blockquote></article></div></section>
