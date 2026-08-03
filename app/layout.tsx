@@ -1,33 +1,12 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./entrance.css";
 
 export const metadata: Metadata = {
-  title: "Broken Porcelain",
-  description:
-    "A digital museum of fragile porcelain memories.",
+  title: "BROKEN DOLL — 破碎娃娃",
+  description: "破碎娃娃 · 油画艺术展",
 };
 
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  return (
-    <html
-      lang="en"
-      className="bg-[#050505]"
-    >
-      <body
-        className="
-          min-h-screen
-          overflow-x-hidden
-          bg-[#050505]
-          text-white
-          antialiased
-        "
-      >
-        {children}
-      </body>
-    </html>
-  );
+export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
+  return <html lang="en"><body>{children}</body></html>;
 }
