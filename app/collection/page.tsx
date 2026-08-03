@@ -98,11 +98,6 @@ const artworks = [
     title: "Doll Without a Name",
   },
   {
-    id: "020",
-    image: "/gallery/020PorcelainHeart.webp",
-    title: "Porcelain Heart",
-  },
-  {
     id: "021",
     image: "/gallery/021VelvetNight.webp",
     title: "Velvet Night",
